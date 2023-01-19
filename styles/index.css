@@ -1,0 +1,14 @@
+.logo {
+  width: 40%;
+  padding-top: 15%;
+}
+
+#login-btn {
+  background-color: #3c3a3c;
+  color: white;
+  padding: 2% 0 2% 0;
+}
+
+#login-box {
+  padding-top: 10%;
+}
